@@ -1,5 +1,5 @@
 function getResponseFromAPI() {
-    return new promise((resolve, reject) => {
+    return new Promise((resolve, reject) => {
         if (x = 0) {
             resolve("0");
         } else {
