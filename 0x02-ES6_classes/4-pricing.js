@@ -1,4 +1,4 @@
-/*eslint-disable no-unused-vars*/
+/* eslint-disable no-unused-vars */
 
 export default class Pricing {
   constructor(amount, currency) {
