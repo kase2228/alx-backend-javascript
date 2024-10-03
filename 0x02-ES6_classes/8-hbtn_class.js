@@ -5,9 +5,9 @@ export default class HolbertonClass {
     }
 
     Number(Size) {
-        this._size = Size;
+        return this._size = Size;
     }
     String(Location) {
-        this._location = Location;
+        return this._location = Location;
     }
 }
